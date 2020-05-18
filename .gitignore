@@ -35,3 +35,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.wav
+*.fbx.*
+*.3ds.*
+*.dae.*
+*/Scripts/*
